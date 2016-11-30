@@ -1,5 +1,5 @@
 
-![Alt text](/public/img/app_screenshot.png?raw=true "Prototype")
+![screenshoot](public/img/app_screenshot.png?raw=true "Prototype")
 
 ###################
 Prototype for volunteers of Tinderbox festival.
