@@ -1,7 +1,6 @@
 
-###################
-![ScreenShot](screenshot.jpg)
-###################
+![ScreenShot](screenshot.png)
+
 
 ###################
 Prototype for volunteers of Tinderbox festival.
