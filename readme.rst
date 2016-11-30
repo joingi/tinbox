@@ -1,5 +1,5 @@
 
-![screenshoot](public/img/app_screenshot.png?raw=true "Prototype")
+![Image of app](https://github.com/joingi/tinbox/blob/master/public/img/app_screenshot.png?raw=true)
 
 ###################
 Prototype for volunteers of Tinderbox festival.
