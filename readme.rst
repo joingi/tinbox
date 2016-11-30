@@ -1,5 +1,7 @@
 
-![Image of app](https://github.com/joingi/tinbox/blob/master/public/img/app_screenshot.png?raw=true)
+###################
+![ScreenShot](screenshot.jpg)
+###################
 
 ###################
 Prototype for volunteers of Tinderbox festival.
